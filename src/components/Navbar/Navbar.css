@@ -1,0 +1,13 @@
+.navbar-conatiner{
+    background-color: gray;
+    color: darkslategray;
+    padding: 5px 20px;
+
+}
+.navbar-menu{
+text-decoration: none;
+background-color: beige;
+padding: 4px 10px;
+margin: 5px 10px;
+border-radius: 10px;
+}
